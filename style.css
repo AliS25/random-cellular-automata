@@ -1,0 +1,39 @@
+body{
+    background-color:bisque;
+}
+
+h1{
+    text-align: center;
+    font-family: fantasy;
+    text-shadow: 3px 3px 1px red;
+}
+#grid{
+    width: 1000px;
+    height:3000px;
+    margin: auto;
+    border-color: red;
+    border-style:dotted;
+    border-radius: 3%;
+    padding: 20px;
+    position: relative;
+}
+div{ 
+    width: 10px;
+    height: 30px; 
+}
+
+p{
+    text-align: center;
+    font-size: 1.5em;
+    text-decoration-line: underline;
+    text-decoration-color: red;
+    text-decoration-style:solid;
+    border-radius: 3%;
+    border-color: red;
+    border-style: dashed;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 3px;
+}
+
